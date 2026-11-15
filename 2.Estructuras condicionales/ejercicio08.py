@@ -1,10 +1,10 @@
 # ==============================
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
-n1 = 0
-n2 = 0
-n3 = 0
-orden = ''
+n1 int = 0
+n2 int = 0
+n3 int = 0
+orden string = ''
 lista = []
 n1 = int(input('ingrese el primer numero: '))
 n2 = int(input('ingrese el segundo numero: '))
