@@ -1,8 +1,8 @@
 # ==============================
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
-minutos = 0
-subtotal = 0
+minutos int = 0
+subtotal float = 0.0
 minutos = int(input('ingrese la duracion en minutos: '))
 # ==============================
 # 2. PROCESO / LÓGICA Y ESTRUCTURAS
