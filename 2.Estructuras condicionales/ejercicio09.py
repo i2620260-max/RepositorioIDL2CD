@@ -1,10 +1,10 @@
 # ==============================
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
-cantidad = 0
-precio = 0.0
-totl = 0.0
-desc = 0.0
+cantidad int = 0
+precio float = 0.0
+totl float = 0.0
+desc float = 0.0
 cantidad = int(input('ingrese la cantidad de camisas: '))
 precio = float(input('ingrese el precio unitario: '))
 
