@@ -1,9 +1,9 @@
 # ==============================
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
-cantidad = 0
-precio = 0
-total = 0
+cantidad int= 0
+precio float = 0.0
+total float = 0.0
 cantidad = int(input('Ingrese el numero de llantas a comprar: '))
 # ==============================
 # 2. PROCESO / LÓGICA Y ESTRUCTURAS
