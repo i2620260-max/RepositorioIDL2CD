@@ -1,9 +1,9 @@
 # ==============================
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
-L1 = 0.0
-L2 = 0.0
-L3 = 0.0
+L1 float = 0.0
+L2 float = 0.0
+L3 float = 0.0
 perimetro = 0.0
 L1 = float(input('Ingrese el lado 1: '))
 L2 = float(input('Ingrese el lado 2: '))
