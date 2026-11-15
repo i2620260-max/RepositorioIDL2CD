@@ -2,11 +2,11 @@
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
 zona = {}
-codigo = 0
-minutos = 0
+codigo int = 0
+minutos int = 0
 nombre = ''
-costo_min = 0.0
-total = 0.0
+costo_min float= 0.0
+total float= 0.0
 zonas = {
     10: ('america del norte', 2.2),
     12: ('america del centro', 2.5),
