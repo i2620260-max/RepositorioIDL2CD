@@ -1,14 +1,14 @@
 # ==============================
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
-H = 0
-M = 0
-S = 0
-N = 0
-total_segundos = 0
-nueva_H = 0
-nuevo_M = 0
-nuevo_S = 0
+H int = 0
+M int = 0
+S int = 0
+N int = 0
+total_segundos int = 0
+nueva_H int = 0
+nuevo_M int = 0
+nuevo_S int = 0
 H = int(input('Ingrese la hora (0-23): '))
 M = int(input('Ingrese los minutos (0-59): '))
 S = int(input('Ingrese los segundos (0-59): '))
