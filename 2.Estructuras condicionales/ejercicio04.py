@@ -1,10 +1,10 @@
 # ==============================
 # 1. ENTRADA DE DATOS / DECLARACIÓN
 # ==============================
-materias = 0
-promedio = 0
-total_de_costo = 0.0
-descuento = 0.0
+materias int = 0
+promedio float = 0
+total_de_costo float = 0.0
+descuento float = 0.0
 materias = int(input('ingrese la cantidad de materias que cursa: '))
 promedio = float(input('ingrese el promedio del ultimo periodo: '))
 # ==============================
